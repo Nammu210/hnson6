@@ -1,6 +1,12 @@
 .App {
   text-align: center;
+  background: linear-gradient(180deg, rgba(41,217,219,1) 1%, rgba(215,88,99,1) 26%, rgba(151,179,189,1) 100%);
+  background-repeat: no-repeat;
+  width: 100vw;
+  min-height: 100vh;
+  box-sizing: content-box;
 }
+
 
 .App-logo {
   height: 40vmin;
